@@ -1,0 +1,46 @@
+Degree,Academic major,Internship experience,Soft skills,Hard skills,Potentials,Experience
+IIT,CS,good,good,good,Promising,1
+IIT,Mech,average,best,average,okay,0
+IIT,EnC,best,best,best,Promising,1
+IIT,Aeronatical,poor,poor,poor,okay,1
+IIT,IT,good,poor,good,Promising,0
+IIT,EE,average,average,average,okay,1
+BE,CS,best,poor,best,Promising,1
+BE,Mech,poor,poor,poor,okay,1
+BE,EnC,good,best,good,Promising,0
+BE,Aeronatical,average,average,average,okay,1
+BE,IT,best,best,best,Promising,0
+BE,EE,poor,poor,poor,okay,0
+MCA,Computer Applications,good,best,good,not_good,1
+B.Sc,IT,average,average,average,okay,1
+BCA,Computer Applications,best,best,best,Promising,0
+IIT,CS,good,good,good,Promising,1
+IIT,Mech,average,best,average,okay,0
+IIT,EnC,best,best,best,Promising,1
+IIT,Aeronatical,poor,poor,poor,okay,0
+IIT,IT,good,poor,good,Promising,0
+IIT,EE,average,average,average,okay,0
+BE,CS,best,poor,best,Promising,0
+BE,Mech,poor,poor,poor,okay,1
+BE,EnC,good,best,good,Promising,1
+BE,Aeronatical,average,average,average,okay,0
+BE,IT,best,best,best,Promising,0
+BE,EE,poor,poor,poor,okay,0
+MCA,Computer Applications,good,best,good,not_good,1
+B.Sc,IT,average,average,average,okay,1
+BCA,Computer Applications,best,best,best,Promising,0
+IIT,CS,good,good,good,Promising,1
+IIT,Mech,average,best,average,okay,0
+IIT,EnC,best,best,best,Promising,1
+IIT,Aeronatical,poor,poor,poor,okay,1
+IIT,IT,good,poor,good,Promising,1
+IIT,EE,average,average,average,okay,0
+BE,CS,best,poor,best,Promising,0
+BE,Mech,poor,poor,poor,okay,1
+BE,EnC,good,best,good,Promising,0
+BE,Aeronatical,average,average,average,okay,0
+BE,IT,best,best,best,Promising,0
+BE,EE,poor,poor,poor,okay,0
+MCA,Computer Applications,good,best,good,not_good,0
+B.Sc,IT,average,average,average,okay,1
+BCA,Computer Applications,best,best,best,Promising,1

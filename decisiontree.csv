@@ -1,0 +1,16 @@
+Degree,Academic major,Internship experience,Soft skills,Hard skills,Potentials,Experience,offered_job?
+IIT,CS,good,good,good,Promising,1,yes
+IIT,Mech,average,average,average,okay,0,yes
+IIT,EnC,best,best,best,Promising,1,yes
+IIT,Aeronatical,poor,poor,poor,okay,0,no
+IIT,IT,good,good,good,Promising,1,yes
+IIT,EE,average,average,average,okay,0,yes
+BE,CS,best,best,best,Promising,1,yes
+BE,Mech,poor,poor,poor,okay,0,no
+BE,EnC,good,good,good,Promising,1,yes
+BE,Aeronatical,average,average,average,okay,0,no
+BE,IT,best,best,best,Promising,1,yes
+BE,EE,poor,poor,poor,okay,0,yes
+MCA,Computer Applications,good,good,good,not_good,1,yes
+B.Sc,IT,average,average,average,okay,0,no
+BCA,Computer Applications,best,best,best,Promising,1,yes
